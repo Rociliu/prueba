@@ -1,0 +1,1 @@
+Soy Rocío y he conseguido crear una clave ssh para enlazar el ordenador de  Lorenzo con mi GitHub
