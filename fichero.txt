@@ -1,2 +1,2 @@
-Soy Rocío y he conseguido crear una clave ssh para enlazar el ordenador de  Lorenzo con mi GitHub
-Además, es la primera vez que consigo yo solita hacer todo esto sin ayuda de nadie, únicamente buscando la información en Google
+He conseguido crear una clave ssh para enlazar otro ordenador con mi GitHub
+Es la primera vez que consigo hacer todo esto sin ayuda de nadie.
